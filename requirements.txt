@@ -1,3 +1,5 @@
-cloudscraper==1.2.71
-beautifulsoup4==4.12.2
-pandas==2.1.1
+cloudscraper
+beautifulsoup4
+pandas
+streamlit
+plotly
